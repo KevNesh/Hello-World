@@ -1,2 +1,2 @@
-# Hello-World
-Just a new repository
+Hey!
+Thi is me and am maing a commit right now
